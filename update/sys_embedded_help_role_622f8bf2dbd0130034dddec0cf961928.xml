@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_125389_demo_app.demoapp_t1_user" name="x_125389_demo_app.demoapp_t1_user">e62f8bf2dbd0130034dddec0cf961925</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>gargi</sys_created_by>
+        <sys_created_on>2018-02-19 12:49:06</sys_created_on>
+        <sys_id>622f8bf2dbd0130034dddec0cf961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e62f8bf2dbd0130034dddec0cf961925</sys_name>
+        <sys_package display_value="Demo Application" source="x_125389_demo_app">ba80dafedb10130034dddec0cf9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Application">ba80dafedb10130034dddec0cf9619ad</sys_scope>
+        <sys_update_name>sys_embedded_help_role_622f8bf2dbd0130034dddec0cf961928</sys_update_name>
+        <sys_updated_by>gargi</sys_updated_by>
+        <sys_updated_on>2018-02-19 12:49:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

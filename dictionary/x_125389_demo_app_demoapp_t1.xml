@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="DemoApp T1" max_length="40" name="x_125389_demo_app_demoapp_t1" type="collection">
+        <element label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
