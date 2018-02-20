@@ -31,6 +31,8 @@
         <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -52,7 +54,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>gargi</sys_created_by>
         <sys_created_on>2018-02-19 12:49:07</sys_created_on>
-        <sys_id>01f2fe83db101300395fd360cf961929</sys_id>
+        <sys_id>0ad7bac7db10130034dddec0cf961986</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_125389_demo_app_demoapp_t1</sys_name>
         <sys_package display_value="Demo Application" source="x_125389_demo_app">ba80dafedb10130034dddec0cf9619ad</sys_package>
@@ -60,7 +62,7 @@
         <sys_scope display_value="Demo Application">ba80dafedb10130034dddec0cf9619ad</sys_scope>
         <sys_update_name>sys_dictionary_x_125389_demo_app_demoapp_t1_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-02-20 05:24:21</sys_updated_on>
+        <sys_updated_on>2018-02-20 05:45:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
