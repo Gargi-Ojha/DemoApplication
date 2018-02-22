@@ -20,6 +20,8 @@
         <query/>
         <report/>
         <roles>x_125389_demo_app.demoapp_t1_user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>gargi</sys_created_by>
         <sys_created_on>2018-02-19 12:49:07</sys_created_on>
