@@ -8,6 +8,7 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_125389_demo_app.demoapp_t1_user</name>
+        <scoped_admin>false</scoped_admin>
         <suffix>demoapp_t1_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>gargi</sys_created_by>
